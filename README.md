@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="Мрачный%20баннер%20%C2%ABDARKREALL%C2%BB.png" width="100%" />
 </p>
+
 
 <h3 align="center">DARKREALL</h3>
 
